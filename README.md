@@ -1,8 +1,5 @@
-## React.js Image Upload with Preview using Hooks
+## Image Uploader with Preview using Hooks
 Building React Hooks Image Upload example with Preview to a Rest API. The React App uses Axios and Multipart File for making HTTP requests, Bootstrap for progress bar. You also have a display list of images’ information (with download url).
-
-![react-js-image-upload-with-preview](react-js-image-upload-with-preview.png)
-
 For more detail, please visit:
 > [React.js Image Upload with Preview example](https://www.bezkoder.com/react-image-upload-preview-hooks/)
 
